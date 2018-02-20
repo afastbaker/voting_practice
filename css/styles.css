@@ -1,0 +1,29 @@
+#voting-age, #non-voting-age {
+  display: none;
+}
+
+body {
+  background-color: black;
+  color: #0000ff;
+}
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+    color: darkgrey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+
+}
+</style>
